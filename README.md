@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Saurabhsingh2277
-- 👀 I’m interested in Developing software,designing adn Playing online game also
+- 👋 Hi, I’m @Saurabhsingh70
+- 👀 I’m interested in Developing software,designing and Playing online game also
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me saurabhsingh1277@gmail.com
